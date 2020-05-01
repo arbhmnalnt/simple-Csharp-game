@@ -1,0 +1,14 @@
+C:\Users\ahmed\source\repos\space_shooter\space_shooter\bin\Release\space_shooter.exe
+C:\Users\ahmed\source\repos\space_shooter\space_shooter\bin\Release\space_shooter.pdb
+C:\Users\ahmed\source\repos\space_shooter\space_shooter\obj\Release\Interop.WMPLib.dll
+C:\Users\ahmed\source\repos\space_shooter\space_shooter\obj\Release\space_shooter.csproj.ResolveComReference.cache
+C:\Users\ahmed\source\repos\space_shooter\space_shooter\obj\Release\space_shooter.Form1.resources
+C:\Users\ahmed\source\repos\space_shooter\space_shooter\obj\Release\space_shooter.Properties.Resources.resources
+C:\Users\ahmed\source\repos\space_shooter\space_shooter\obj\Release\space_shooter.csproj.GenerateResource.cache
+C:\Users\ahmed\source\repos\space_shooter\space_shooter\obj\Release\space_shooter.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\space_shooter\space_shooter\obj\Release\space_shooter.exe
+C:\Users\ahmed\source\repos\space_shooter\space_shooter\obj\Release\space_shooter.pdb
+C:\Users\ahmed\source\repos\space_shooter\space_shooter\bin\Release\space_shooter.exe.manifest
+C:\Users\ahmed\source\repos\space_shooter\space_shooter\bin\Release\space_shooter.application
+C:\Users\ahmed\source\repos\space_shooter\space_shooter\obj\Release\space_shooter.exe.manifest
+C:\Users\ahmed\source\repos\space_shooter\space_shooter\obj\Release\space_shooter.application
